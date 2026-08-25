@@ -30,3 +30,10 @@ void insertionSort(int A[], int n) {
         A[j + 1] = key;
     }
 }
+
+/*
+Time complexity: O(n^2) -worst case, O(n^2) -average case, O(n) -best case
+Space complexity: O(1)
+
+we iteratively insert each element of an unsorted list into its correct position in a sorted portion of the list.
+*/
