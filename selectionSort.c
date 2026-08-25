@@ -36,7 +36,7 @@ void selectionSort(int A[], int n) {
 
 
 /*
-Time complexity: O(n^2)
+Time complexity: O(n^2) - best, average and worst.
   space complexity: O(1)
   */
 /*
