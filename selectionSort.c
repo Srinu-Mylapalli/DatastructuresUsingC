@@ -28,3 +28,19 @@ void selectionSort(int A[], int n) {
         }
     }
 }
+
+
+
+
+
+
+
+/*
+Time complexity: O(n^2)
+  space complexity: O(1)
+  */
+/*
+the smallest element is placed in it's correct position.
+the sorting is done on the basis of the smallest to the largest element.
+the smallest element is first sorted and then the second smallest element and so on.
+*/
